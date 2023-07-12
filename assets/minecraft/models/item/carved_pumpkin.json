@@ -1,0 +1,28 @@
+{
+    "parent": "minecraft:block/orientable",
+    "textures": {
+        "front": "minecraft:block/carved_pumpkin",
+        "side": "minecraft:block/pumpkin_side",
+        "top": "minecraft:block/pumpkin_top"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "item/cock"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "item/amin"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "item/amongus"
+        }
+    ]
+}

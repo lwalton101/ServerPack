@@ -1,0 +1,57 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [128, 128],
+	"textures": {
+		"1": "item/amin_circle_text_image_512",
+		"2": "item/amin_luke_roll_eye",
+		"3": "item/amin_sad",
+		"4": "item/amin_tounge",
+		"5": "item/amin_upclose_2",
+		"6": "item/amin_brish",
+		"particle": "block/amin_texture"
+	},
+	"elements": [
+		{
+			"from": [-8, 0, -8],
+			"to": [24, 32, 24],
+			"faces": {
+				"north": {"uv": [0, 0, 15.95634, 16], "rotation": 90, "texture": "#5"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"south": {"uv": [0, 0, 12.43032, 16], "texture": "#3"},
+				"west": {"uv": [4, 4, 13.79088, 14.77748], "texture": "#4"},
+				"up": {"uv": [6.23571, 9.98807, 0, 4.35729], "texture": "#2"},
+				"down": {"uv": [14.88112, 1.73427, 1.34266, 13.73427], "rotation": 180, "texture": "#6"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"thirdperson_lefthand": {
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"firstperson_righthand": {
+			"scale": [0.22, 0.22, 0.22]
+		},
+		"firstperson_lefthand": {
+			"scale": [0.22, 0.22, 0.22]
+		},
+		"ground": {
+			"rotation": [0, 0, -1],
+			"translation": [-0.25, -0.75, -0.25],
+			"scale": [4, 4, 4]
+		},
+		"gui": {
+			"translation": [0, -4, 0],
+			"scale": [0.5, 0.5, 1]
+		},
+		"head": {
+			"rotation": [0, 180, 0]
+		},
+		"fixed": {
+			"translation": [0, -3.75, -7],
+			"scale": [0.5, 0.5, 0.5]
+		}
+	}
+}
