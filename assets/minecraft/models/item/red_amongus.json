@@ -1,12 +1,12 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/amongus_foot_texture",
-		"1": "item/amongus_body_texture",
-		"2": "item/amongus_skull_texture",
+		"0": "item/red_amongus_foot_texture",
+		"1": "item/red_amongus_body_texture",
+		"2": "item/red_amongus_skull_texture",
 		"3": "item/amongus_eye_rim_texture",
 		"4": "item/amongus_eye_texture",
-		"particle": "item/amongus_foot_texture"
+		"particle": "item/red_amongus_foot_texture"
 	},
 	"elements": [
 		{
