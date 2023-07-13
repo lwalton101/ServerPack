@@ -16,13 +16,79 @@
             "predicate": {
                 "custom_model_data": 2
             },
-            "model": "item/amin"
+            "model": "item/aqua_amongus"
         },
         {
             "predicate": {
                 "custom_model_data": 3
             },
-            "model": "item/amongus"
+            "model": "item/blue_amongus"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "item/brown_amongus"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5
+            },
+            "model": "item/gray_amongus"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6
+            },
+            "model": "item/green_amongus"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7
+            },
+            "model": "item/lime_amongus"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8
+            },
+            "model": "item/orange_amongus"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 9
+            },
+            "model": "item/pink_amongus"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 10
+            },
+            "model": "item/purple_amongus"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11
+            },
+            "model": "item/red_amongus"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 12
+            },
+            "model": "item/white_amongus"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 13
+            },
+            "model": "item/yellow_amongus"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 14
+            },
+            "model": "item/amin"
         }
     ]
 }
