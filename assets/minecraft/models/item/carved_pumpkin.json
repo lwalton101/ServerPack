@@ -8,19 +8,19 @@
     "overrides": [
         {
             "predicate": {
-                "custom_model_data": 2
+                "custom_model_data": 1
             },
             "model": "item/cock"
         },
         {
             "predicate": {
-                "custom_model_data": 3
+                "custom_model_data": 2
             },
             "model": "item/amin"
         },
         {
             "predicate": {
-                "custom_model_data": 4
+                "custom_model_data": 3
             },
             "model": "item/amongus"
         }
