@@ -15,6 +15,18 @@
                 "custom_model_data": 2
             },
             "model": "item/amin_totem"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "item/james_totem"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "item/ishaan_totem"
         }
     ]
 }
