@@ -4,7 +4,6 @@
       "layer0": "minecraft:item/netherite_sword"
     },
     "overrides": [
-        {"predicate": {"custom_model_data":2}, "model": "item/big_sword"},
-        {"predicate": {"custom_model_data":3}, "model": "item/cock"}
+        {"predicate": {"custom_model_data":1}, "model": "item/big_sword"}
     ]
   }
