@@ -1,11 +1,20 @@
 {
-    "parent": "minecraft:item/netherite_sword",
+    "parent": "minecraft:item/handheld",
+    "textures": {
+        "layer0": "minecraft:item/netherite_sword"
+    },
     "display": {
         "thirdperson_righthand": {
             "rotation": [ 0, -90, 55 ],
             "translation": [ 0, 27, -1.75 ],
             "scale": [ 4, 4, 4 ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [ 0, 90, -55 ],
+            "translation": [ 0, 27, 0.5 ],
+            "scale": [ 4, 4, 4 ]
         }
     }
+
   }
   
