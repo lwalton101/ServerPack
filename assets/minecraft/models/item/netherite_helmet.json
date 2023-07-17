@@ -60,7 +60,8 @@
       "predicate": {
         "trim_type": 1.0
       }
-    }
+    },
+    {"model": "item/Matty Helmet", "predicate": {"custom_model_data": 69}}
   ],
   "textures": {
     "layer0": "minecraft:item/netherite_helmet"
